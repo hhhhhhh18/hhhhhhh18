@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="hhhhhhh18's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # 💫 About Me:
 I’m a Full-Stack Developer who loves turning real-world problems into practical, impactful digital solutions. I enjoy building modern web applications using technologies like Next.js, React, Node.js, Express, MongoDB, and PostgreSQL. From AI-powered platforms and smart mobility solutions to productivity and education-focused applications, I love experimenting, solving challenging problems, and bringing ideas from concept to reality. What I enjoy most is **building things that people can actually use and that make everyday life easier.**<br>
 
